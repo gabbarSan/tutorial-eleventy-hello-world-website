@@ -4,7 +4,7 @@ Eleventy (11ty) is a static site generator
 
 PREREQUISITES: npm and node should be installed on your laptop / computer.
 
-Instructions to setup on local machine and launch the sebsite:
+Instructions to setup on local machine and launch the website:
 
 Step 1: git clone git@github.com:gabbarSan/tutorial-eleventy-hello-world-website.git
 Step 2: npm install
